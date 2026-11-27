@@ -1,0 +1,8 @@
+TRIG             D18
+ECHO           D5
+SDA              D21
+SCL               D22    
+BTN 1 แดง           D19
+BTN 2 น้ำเงิน           D4
+3.3                 ส้ม
+gnd                 ดำ
